@@ -1,1 +1,39 @@
-css for crystal game 
+.header {
+    color: white;
+    background-color: orange;
+    font-size: 40px;
+}
+
+.textBox {
+    background-color: lightpink;
+    color: green;
+
+}
+
+.counterBox {
+    background-color: lightgreen;
+    color: purple;
+    font-size: 40px;
+}
+
+.winLossBox {
+    background-color: aqua;
+    font-size: 20px;
+    color: black;
+}
+
+.images {
+    width: 50px;
+    height: 50px;
+}
+
+.urScoreIs {
+    background-color: darkgreen;
+    color: white
+}
+
+.lastPanel {
+    background-color: darkgreen;
+    font-size: 20px;
+    color: white
+}
